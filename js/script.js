@@ -1,4 +1,5 @@
 "use strict";
+// burger menu
 
 document.addEventListener("click", documentClick);
 
